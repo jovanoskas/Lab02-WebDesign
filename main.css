@@ -1,0 +1,43 @@
+body{
+    margin-top: 35px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 35px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.boxModel{
+    width: auto;
+    align-content: center;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+    outline: 2px dashed gray;
+    color: red;
+}
+
+li.first{
+    color: lightskyblue;
+}
+li.second{
+    color: darkgreen;
+}
+li.third{
+    color: yellow;
+}
+li.fourth{
+    color: pink;
+}
+p.text{
+    color: red;
+}
+mark{
+    background-color: yellow;
+}
+
+footer{
+    text-align: center;
+    padding: 3px;
+}
